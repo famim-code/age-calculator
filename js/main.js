@@ -1,3 +1,4 @@
+//
 const btnE1 = document.getElementById("btn");
 const birthdayE1 = document.getElementById("birthday");
 const resultE1 = document.getElementById("result");
